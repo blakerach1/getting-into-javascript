@@ -1,0 +1,7 @@
+if statement
+
+() test condition inside
+{} group a set of statements together
+
+else clause will only execute if the test case is false
+

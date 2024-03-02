@@ -1,0 +1,20 @@
+is a place in memory - all over the RAM. Our OS figures that out for our program.
+variables is a representation of something in memory - the way we do this, is by naming it something useful in our program.
+
+= as a single operator, is an assignment operator
+
+the name of the variable is the name of reserved memory
+
+console is a variable, in memory, we then access it, and then we say .log, we are accessing this function inside of console
+
+Arrays have properties, like length
+arr[3] - is referring to accessing something in the array at a specific location of the array
+
+() - overloaded case, log() - means execute a function, and it can also be used for grouping (i.e. in maths)
+; - is a operator, part of the syntax, denoting that the statement is finished
+
+
+Some operators can be used to do something to a variable and reassign the result back into the variable
+age++ - will increment the age by 1
+age =+ 2
+

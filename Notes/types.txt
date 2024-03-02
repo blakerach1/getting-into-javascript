@@ -1,0 +1,9 @@
+Type - a kind of value
+
+typeof 42
+typeof undefined // "undefined"
+typeof { age: 39 } // "object"
+
+typeof null // "object" - this is a bug
+typeof [1,2,3] // "object" - this is a less specific answer than we would like to get. An array is a subtype
+

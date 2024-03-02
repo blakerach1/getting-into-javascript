@@ -1,0 +1,11 @@
+Expression
+statement
+
+
+var age = 39;
+This is a whole statement - with parts to it, age = 39 is an expression of an assignment
+
+age = 1 + (age *2)
+
+age and 2 are each expressions - 2 and 1 are literal expressions.
+

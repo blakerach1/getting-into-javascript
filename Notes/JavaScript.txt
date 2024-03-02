@@ -1,0 +1,30 @@
+JavaScript
+
+Values
+collection of values - arrays
+collection of values - object - rather than values being at certain positions, value is stored at a specific location based on a key, a collection of key value pair
+
+
++ is referred to as overloaded, which means it has more than one behaviour depending on what values are involved
+for example
+string concatenation & adding numbers
+
+operators and operands
+
+! is a uniary operator
+single operand involved in the operation
+Like a !false - which flips the boolean
+
+Comparison operators
+
+== and ===
+Type coersion
+
+3.0 == 3 are the same kind of values, would return as true
+
+true || false - is an or operator (two pipe characters put together)
+If one or the other is true
+&& - is an AND operator, would give us true if both of the operands are true
+
+
+
